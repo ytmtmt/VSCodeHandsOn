@@ -15,7 +15,7 @@
     "@google-cloud/storage": "^5.4.0",
     "@line/liff": "^2.5.0",
     "@types/uuid": "^8.3.0",
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "body-parser": "^1.19.0",
     "buffer": "^6.0.1",
     "core-js": "^3.6.5",
